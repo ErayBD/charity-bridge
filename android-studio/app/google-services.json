@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961630155543",
+    "project_id": "gazi-java-project",
+    "storage_bucket": "gazi-java-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961630155543:android:16b2d9bf786b143a133d52",
+        "android_client_info": {
+          "package_name": "com.eraybd.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961630155543-5d0t75lktr1rde2fj0to67fnt4anpj1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMO_LU5-b1iDch01M2-bDOxttUoXd81Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961630155543-5d0t75lktr1rde2fj0to67fnt4anpj1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

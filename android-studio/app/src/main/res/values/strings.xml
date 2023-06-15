@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="forgot_password"><u>Forgot your password?</u></string>
+    <string name="sign_up"><u>Don\'t have an account? Sign up now!</u></string>
+    <string name="desc_logo">logo</string>
+    <string name="map_api_key">AIzaSyCRvO14l89j2NeFDBDtPteqCvXxTxINeaI</string>
+
+    <string-array name="donation_desc">
+        <item>Rice, Pasta, Canned goods, Cooking oil, Sugar, Salt</item>
+        <item>In addition to the small package: Legumes, Flour, Canned meat</item>
+        <item>In addition to the medium package: Dried fruits, Snacks, Cakes, Coffee, Tea</item>
+        <item>Clothing (dresses, shirts, pants), Shoes, Blankets, Sleeping bag, Sleeping mat</item>
+        <item>Diapers, Wet wipes, Baby food, Baby bottles, Baby shampoo and soap</item>
+        <item>Notebooks, Pens, Erasers, Pencil sharpeners, Staples</item>
+        <item>Sanitary pads, Feminine hygiene products, Hygienic towels, Soap, Toothbrush and toothpaste</item>
+        <item>Medications, Bandages, Gauze, Hand sanitizer, Thermometer</item>
+    </string-array>
+
+
+    <string-array name="donation_type">
+        <item>Please Select</item>
+        <item>Food Package (Small) - $10</item>
+        <item>Food Package (Medium) - $14</item>
+        <item>Food Package (Large) -$18</item>
+        <item>Needy Care - $13</item>
+        <item>Baby Essentials - $5</item>
+        <item>School Supplies - $10</item>
+        <item>Hygiene Kit (For Women) - $12</item>
+        <item>Health Package - $15</item>
+    </string-array>
+
+    <string-array name="donation_prices">
+        <item>10</item>
+        <item>14</item>
+        <item>18</item>
+        <item>13</item>
+        <item>5</item>
+        <item>10</item>
+        <item>12</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="donation_quantity">
+        <item>Please Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Please Select</item>
+        <item>Istanbul</item>
+        <item>Ankara</item>
+        <item>Izmir</item>
+        <item>Bursa</item>
+        <item>Antalya</item>
+        <item>Adana</item>
+        <item>Konya</item>
+        <item>Gaziantep</item>
+        <item>Sanliurfa</item>
+        <item>Mersin</item>
+        <item>Diyarbakir</item>
+        <item>Kayseri</item>
+        <item>Eskisehir</item>
+        <item>Samsun</item>
+        <item>Denizli</item>
+        <item>Kahramanmaras</item>
+        <item>Malatya</item>
+        <item>Erzurum</item>
+        <item>Van</item>
+        <item>Batman</item>
+    </string-array>
+
+    <string-array name="branchForThree">
+        <item>Please Select</item>
+        <item>Branch 1</item>
+        <item>Branch 2</item>
+        <item>Branch 3</item>
+    </string-array>
+
+    <string-array name="branchForTwo">
+        <item>Please Select</item>
+        <item>Branch 1</item>
+        <item>Branch 2</item>
+    </string-array>
+
+    <string-array name="donation_description">
+        <item>Please Select</item>
+        <item>Küçük,Orta,Büyük</item>
+        <item>Kurum Direkt İletecek İhtiyaç Sahiplerine</item>
+        <item>Bez - Mama vs.</item>
+        <item>Anaokul,Ortaokul,Lise,Üniversite</item>
+        <item>Kadınlara Pad ve diğer yardımlar için verilmesi gerekenler</item>
+        <item>Tekerlekli sandalye, işitme cihazı, protez, ilaç yardımları</item>
+    </string-array>
+
+    <string-array name="holder"></string-array>
+
+
+    <string name="todo">TODO</string>
+    <string name="ba_lik_gelecek">BAŞLIK GELECEK</string>
+
+    <string-array name="bagis_turu_paket_txt">
+        <item>Please Select</item>
+        <item>Erzak Paketi</item>
+        <item>İhtiyaç Sahibi Bakım Paketi</item>
+        <item>Bebek İhtiyaç Paketi</item>
+        <item>Okul İhtiyaç Paketi</item>
+        <item>Hijyen Paketleri</item>
+        <item>Sağlık Paketi</item>
+    </string-array>
+
+    <string-array name="bagis_aciklama_txt">
+        <item>Please Select</item>
+        <item>Küçük,Orta,Büyük</item>
+        <item>Kurum Direkt İletecek İhtiyaç Sahiplerine</item>
+        <item>Bez - Mama vs.</item>
+        <item>Anaokul,Ortaokul,Lise,Üniversite</item>
+        <item>Kadınlara Pad ve diğer yardımlar için verilmesi gerekenler</item>
+        <item>Tekerlekli sandalye, işitme cihazı, protez, ilaç yardımları</item>
+    </string-array>
+
+    <string-array name="cvv_months">
+        <item>Please Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="cvv_years">
+        <item>Please Select</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+</resources>
