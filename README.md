@@ -1,2 +1,2 @@
 # charitybridge
-An android mobile application developed to help those in need.
+detailed description will be written.
