@@ -42,12 +42,3 @@ Below are some screenshots of the Charity Bridge application to give you an over
 <img src="https://github.com/ErayBD/charitybridge/assets/71061070/d1d0d976-0ee3-4d43-811a-a3f5dc5e64a5" alt="Details Screen" style="width: 49%;"/>
 <br>
 <img src="https://github.com/ErayBD/charitybridge/assets/71061070/27bf7aea-df5e-4e41-8970-4f4a7f21bc97" alt="Contact Screen" style="width: 49%;"/>
-
-
-
-
-
-
-
-
-
