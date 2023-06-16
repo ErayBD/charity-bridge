@@ -22,25 +22,25 @@ Charity Bridge is more than just an app - it's a community. It brings together d
 ## Screenshots
 Below are some screenshots of the Charity Bridge application to give you an overview of its interface:
 
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0efa15a8-ec63-4a4b-bc91-1cf65c245512" alt="Login Screen" style="width: 50%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/3350e583-c52f-454b-aaaa-fa03d50d294c" alt="Sign Up Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0efa15a8-ec63-4a4b-bc91-1cf65c245512" alt="Login Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/3350e583-c52f-454b-aaaa-fa03d50d294c" alt="Sign Up Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/4028c1b7-0954-4f34-b7d0-d41879c39d35" alt="Recover Screen" style="width: 40%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/082a5e40-d5e2-4037-af0e-bb5258b35743" alt="Welcome Screen" style="width: 40%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/4028c1b7-0954-4f34-b7d0-d41879c39d35" alt="Recover Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/082a5e40-d5e2-4037-af0e-bb5258b35743" alt="Welcome Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/42d5acc2-f83c-4880-b071-e8aeb0c990ac" alt="Donate Screen" style="width: 50%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/4b11a86a-8521-4535-99eb-76f8d0e6a1cd" alt="Payment Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/42d5acc2-f83c-4880-b071-e8aeb0c990ac" alt="Donate Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/4b11a86a-8521-4535-99eb-76f8d0e6a1cd" alt="Payment Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/be7d48eb-fadc-4bdf-aa90-4872cad67873" alt="Map All Screen" style="width: 50%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/dee9509d-bb83-4421-9182-28cc19507fc0" alt="Map In Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/be7d48eb-fadc-4bdf-aa90-4872cad67873" alt="Map All Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/dee9509d-bb83-4421-9182-28cc19507fc0" alt="Map In Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/bb27cd90-05d3-49d1-9ded-73b6d576c69d" alt="Receive Screen" style="width: 50%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0650359a-5fe1-4793-a6c0-24be9e92c679" alt="Requests Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/bb27cd90-05d3-49d1-9ded-73b6d576c69d" alt="Receive Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0650359a-5fe1-4793-a6c0-24be9e92c679" alt="Requests Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/56b6bc71-d71d-4772-9829-7d9a76557b86" alt="Donates Screen" style="width: 50%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/d1d0d976-0ee3-4d43-811a-a3f5dc5e64a5" alt="Details Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/56b6bc71-d71d-4772-9829-7d9a76557b86" alt="Donates Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/d1d0d976-0ee3-4d43-811a-a3f5dc5e64a5" alt="Details Screen" style="width: 49%;"/>
 <br>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/27bf7aea-df5e-4e41-8970-4f4a7f21bc97" alt="Contact Screen" style="width: 50%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/27bf7aea-df5e-4e41-8970-4f4a7f21bc97" alt="Contact Screen" style="width: 49%;"/>
 
 
 
