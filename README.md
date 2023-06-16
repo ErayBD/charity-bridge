@@ -22,8 +22,8 @@ Charity Bridge is more than just an app - it's a community. It brings together d
 ## Screenshots
 Below are some screenshots of the Charity Bridge application to give you an overview of its interface:
 
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0efa15a8-ec63-4a4b-bc91-1cf65c245512" alt="Login Screen" style="width: 45%;"/>
-<img src="https://github.com/ErayBD/charitybridge/assets/71061070/3350e583-c52f-454b-aaaa-fa03d50d294c" alt="Sign Up Screen" style="width: 45%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/0efa15a8-ec63-4a4b-bc91-1cf65c245512" alt="Login Screen" style="width: 49%;"/>
+<img src="https://github.com/ErayBD/charitybridge/assets/71061070/3350e583-c52f-454b-aaaa-fa03d50d294c" alt="Sign Up Screen" style="width: 49%;"/>
 <br>
 <img src="https://github.com/ErayBD/charitybridge/assets/71061070/4028c1b7-0954-4f34-b7d0-d41879c39d35" alt="Recover Screen" style="width: 40%;"/>
 <img src="https://github.com/ErayBD/charitybridge/assets/71061070/082a5e40-d5e2-4037-af0e-bb5258b35743" alt="Welcome Screen" style="width: 40%;"/>
