@@ -2,6 +2,7 @@
 Charity Bridge is a meticulously crafted application, developed with Android Studio, envisioned with the objective of simplifying and promoting charitable actions. The purpose of the application is to establish a reliable and efficient channel between donors and those in need.
 
 <br>
+
 <p align="center"><img src="https://github.com/ErayBD/charitybridge/assets/71061070/309a99b5-df73-4f09-9957-d298188bb9ef"></p>
 
 ## Installation
